@@ -16,6 +16,7 @@ PR-Details-Finder is a Python script that retrieves and displays the details of 
 
 ## Prerequisites
    **Python:** Ensure you have Python **3.6** or higher installed.
+   
    **Libraries:** The script uses the **requests** library, which can be installed with:
 
     pip install requests
@@ -30,9 +31,9 @@ PR-Details-Finder is a Python script that retrieves and displays the details of 
 
         python pr_details_finder.py
 
-   **Output:**
-        The script will print the details of each pull request in the repository.
-        At the end, it will display the total number of pull requests made by each user.
+**Output:**
+The script will print the details of each pull request in the repository.
+At the end, it will display the total number of pull requests made by each user.
 
 
 
