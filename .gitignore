@@ -1,0 +1,6 @@
+# vitual enviroment 
+.venv/
+
+#others
+.env
+*.log
