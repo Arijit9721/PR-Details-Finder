@@ -11,6 +11,7 @@ PR-Details-Finder is a Python script that retrieves and displays the details of 
        * User ID
        * Pull request URL
        * Pull request ID
+  
     * Calculates and displays the total number of pull requests made by each user.
 
 ## Prerequisites
@@ -24,8 +25,10 @@ PR-Details-Finder is a Python script that retrieves and displays the details of 
 
    **Run the Script:**
             1. Open a terminal or command prompt.
-             2. Navigate to the folder containing the script.
-             3. Execute the script with:
+            
+            2. Navigate to the folder containing the script.
+            
+            3. Execute the script with:
 
         python pr_details_finder.py
 
