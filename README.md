@@ -23,12 +23,10 @@ PR-Details-Finder is a Python script that retrieves and displays the details of 
 ## How to Use
 **Clone or Download the Repository:** Clone the repository containing the script or copy the script code into a Python file (e.g., pr_details_finder.py).
 
-   **Run the Script:**
-            1. Open a terminal or command prompt.
-            
-            2. Navigate to the folder containing the script.
-            
-            3. Execute the script with:
+**Run the Script:**
+1. Open a terminal or command prompt.
+2. Navigate to the folder containing the script.
+3. Execute the script with:
 
         python pr_details_finder.py
 
